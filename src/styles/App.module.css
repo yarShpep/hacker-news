@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .main-content {
+    padding-top: 60px; /* Adjust this value according to the height of your header */
+  }
+  

@@ -1,0 +1,23 @@
+.newsItem {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #ffffff;
+  }
+  
+  .newsItem a {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 1.2em;
+  }
+  
+  .newsItem a:hover {
+    text-decoration: underline;
+  }
+  
+  .newsItem p {
+    margin: 5px 0 0;
+    color: #666;
+  }
+  

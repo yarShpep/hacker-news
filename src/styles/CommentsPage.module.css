@@ -1,0 +1,33 @@
+.commentsPage {
+    padding: 20px;
+  }
+  
+  .commentList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .comment {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #ffffff;
+  }
+  
+  .comment p {
+    margin: 0;
+    color: #666;
+  }
+  
+  .comment a {
+    display: block;
+    margin-top: 10px;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .comment a:hover {
+    text-decoration: underline;
+  }
+  
